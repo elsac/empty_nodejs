@@ -15,7 +15,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo J\'adore les bananes",
+    "test": "ok",
     "start": "node server.js"
   },
   "repository": {
